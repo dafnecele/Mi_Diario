@@ -1,3 +1,4 @@
 Dia 1: Hoy empiezo mi diario con git.
 Dia 2: Hoy aprendi sobre el comando git add y git commit.
 Dia 3: Estoy entendiendo como funcionan las ramas en git.
+Dia 4: Practique haciendo git push para subir cambios a github
